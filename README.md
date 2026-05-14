@@ -1,0 +1,1 @@
+# Computational-Modeling-of-Ge-SiGe-Heterostructures-for-Spin-Qubit-Arrays
