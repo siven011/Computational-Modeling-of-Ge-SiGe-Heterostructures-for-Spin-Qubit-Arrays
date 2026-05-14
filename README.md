@@ -126,6 +126,3 @@ Each script prints a summary table to the console and saves a four-panel analysi
 [10] A. Saltelli, M. Ratto, T. Andres et al., *Global Sensitivity Analysis: The Primer* (Wiley, Chichester, 2008).
 
 ---
-
-*Submitted as supplementary material to doctoral applications in experimental and theoretical quantum device physics.*
-````
