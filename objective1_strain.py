@@ -117,7 +117,7 @@ poisson_biaxial = C12 / C11           # ≈ 0.375
 
 # Standard (isotropic) Poisson's ratio — used in Matthews-Blakeslee formula
 #   ν = C12 / (C11 + C12)   (isotropic approximation)
-nu = C12 / (C11 + C12)                # ≈ 0.273   doubt
+nu = C12 / (C11 + C12)                # ≈ 0.273 
 
 # Burgers vector for 60° mixed dislocations in diamond-cubic Ge
 #   b = (a/2)<110>  →  |b| = a_Ge / √2   (in metres)
@@ -553,6 +553,3 @@ print(f"  h_c at x=0.85: {critical_thickness_MB(0.85):.1f} nm")
 print(f"  h_c at x=0.90: {critical_thickness_MB(0.90):.1f} nm")
 
 print("\n All Objective 1 calculations complete.")
-
-
-# Need to understand bowing parameter, MB equation
